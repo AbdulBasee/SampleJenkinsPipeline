@@ -1,0 +1,7 @@
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\TestAppForJenkins.exe
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\TestAppForJenkins.dll
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\TestAppForJenkins.deps.json
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\TestAppForJenkins.runtimeconfig.json
+C:\Users\mahmooda\Desktop\DotnetCoreProjects\TestAppForJenkins\TestAppForJenkins\obj\Release\net6.0\PubTmp\Out\TestAppForJenkins.pdb
